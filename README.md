@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github.com/Oceankok/Oceankok/assets/ChatGPT Image 2025년 4월 23일 오후 10_32_45.png" />
+  <img
+    src="https://raw.githubusercontent.com/Oceankok/Oceankok/main/Ocean_profile.png"
+    alt="Ocean Profile"
+  />
 </div>
 
 
