@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Oceankok/Oceankok/main/Ocean_profile.png"
+    src="https://raw.githubusercontent.com/Oceankok/Oceankok/main/Ocean.png"
     alt="Ocean Profile"
   />
 </div>
