@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img
     src="https://raw.githubusercontent.com/Oceankok/Oceankok/main/Ocean.png"
     alt="Ocean Profile"
+    width="400"
   />
 </div>
 
