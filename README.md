@@ -22,16 +22,34 @@ Here are some ideas to get you started:
 </div>
 
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Java](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
-![Java](https://img.shields.io/badge/norton-FFE01A.svg?&style=for-the-badge&logo=norton&logoColor=white)
-![Java](https://img.shields.io/badge/openjdk-openjdk.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white)
-![Java](https://img.shields.io/badge/bitcoinsv-EAB300.svg?&style=for-the-badge&logo=bitcoinsv&logoColor=white)
-![Java](https://img.shields.io/badge/google-4285F4.svg?&style=for-the-badge&logo=google&logoColor=white)
-![Java](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/shell-FFD500.svg?&style=for-the-badge&logo=shell&logoColor=white)
-![Java](https://img.shields.io/badge/pixiv-0096FA.svg?&style=for-the-badge&logo=pixiv&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Norton-FFE01A?style=for-the-badge&logo=norton&logoColor=white" alt="Norton" />
+  <img src="https://img.shields.io/badge/OpenJDK-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenJDK" />
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  <img src="https://img.shields.io/badge/BitcoinSV-EAB300?style=for-the-badge&logo=bitcoinsv&logoColor=white" alt="BitcoinSV" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="Shell" />
+  <img src="https://img.shields.io/badge/Pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white" alt="Pixiv" />
+</div>
+<div align="center">
+ 🌱 I’m currently learning ...
+  </div>
+<div align="center">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Pixiv" />
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pixiv" />
+
+</div>
+
+
+<div align="center">
+ ⚡ Tools
+  </div>
+
+
+
 
 
 
